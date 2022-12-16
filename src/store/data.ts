@@ -1,10 +1,10 @@
-export const menu = [
+export const cards = [
   {
     id: 1,
     title: 'A Breakfast Panini',
     category: 'breakfast',
     price: 10.50,
-    img: '../images/item-01.jpg',
+    img: './images/item-01.jpg',
     desc: 'Sliced egg, crisp bacon, pepper jack cheese, tomato and watercress grilled on our Lemon Pugliese Bread',
   },
   {
@@ -12,7 +12,7 @@ export const menu = [
     title: 'Smoked Salmon Platter',
     category: 'breakfast',
     price: 12.25,
-    img: '../images/item-02.jpg',
+    img: './images/item-02.jpg',
     desc: 'Our Lemon Ficelle, smoked salmon, house-made dill spread, tomato, red onion, cucumbers, capers and sweet roasted pecans',
   },
   {
@@ -20,7 +20,7 @@ export const menu = [
     title: 'Roasted Turkey Breast',
     category: 'sandwiches',
     price: 10.50,
-    img: '../images/item-03.jpg',
+    img: './images/item-03.jpg',
     desc: 'With tomato, lettuce, hot pepper jack cheese and Russian dressing served on Rosemary/Olive Oil Bread',
   },
   {
@@ -28,7 +28,7 @@ export const menu = [
     title: 'Yogurt Parfait',
     category: 'breakfast',
     price: 7.95,
-    img: '../images/item-04.jpg',
+    img: './images/item-04.jpg',
     desc: 'Our Middle-eastern style yogurt layered with fresh seasonal berries and house-made granola',
   },
   {
@@ -36,7 +36,7 @@ export const menu = [
     title: 'Apple Juice',
     category: 'beverages',
     price: 3.95,
-    img: '../images/item-05.jpg',
+    img: './images/item-05.jpg',
     desc: 'House-Squeezed',
   },
   {
@@ -44,7 +44,7 @@ export const menu = [
     title: 'Classic French Albacore White Tuna Salad',
     category: 'sandwiches',
     price: 10.50,
-    img: '../images/item-06.jpg',
+    img: './images/item-06.jpg',
     desc: 'Albacore white tuna with walnuts, capers, fresh basil and extra virgin olive oil, (no mayo) served with arugula, tomato and egg slices on a French White Baguette',
   },
   {
@@ -52,7 +52,7 @@ export const menu = [
     title: 'Ham and Swiss Cheese',
     category: 'sandwiches',
     price: 10.50,
-    img: '../images/item-07.jpg',
+    img: './images/item-07.jpg',
     desc: 'With dijonaise dressing and baby lettuce served on Seeded Corn Rye Bread',
   },
   {
@@ -60,7 +60,7 @@ export const menu = [
     title: 'Tea',
     category: 'beverages',
     price: 2.95,
-    img: '../images/item-08.jpg',
+    img: './images/item-08.jpg',
     desc: 'Green or Black',
   },
   {
@@ -68,7 +68,7 @@ export const menu = [
     title: 'French Toast Panini',
     category: 'breakfast',
     price: 10.95,
-    img: '../images/item-09.jpg',
+    img: './images/item-09.jpg',
     desc: 'Classic French White Batard stuffed with Mascarpone fruit compote and a dollop of Créme FraÎche',
   },
 ];
