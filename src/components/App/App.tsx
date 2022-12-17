@@ -26,6 +26,6 @@ const App = () => {
       <Grid cards={cardList} />
     </div>
   );
-}
+};
 
 export default App;
