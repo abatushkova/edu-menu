@@ -1,5 +1,6 @@
 # Cafe menu
-Educational project with menu page. Filter food and drinks by clicking on categories.
+Educational project with menu page. Filter food and drinks by clicking on categories.  
+[Live Demo](https://abatushkova.github.io/edu-menu/)
 
 ## Built with
 - Grid, flexbox layout
