@@ -11,7 +11,7 @@ Educational project with Cafe Menu page. Filter food and drinks by clicking on c
 ## Installation
 You will need node and npm installed globally on your machine.
 ```
-$ git clone https://github.com/abatushkova/edu-menu.git
+$ git clone https://github.com/abatushkova/edu-react-cafe-menu.git
 $ cd edu-menu
 $ npm install
 ```
