@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/edu-menu/static/css/main.65925965.css",
-    "main.js": "/edu-menu/static/js/main.e1ee4086.js",
-    "index.html": "/edu-menu/index.html",
-    "main.65925965.css.map": "/edu-menu/static/css/main.65925965.css.map",
-    "main.e1ee4086.js.map": "/edu-menu/static/js/main.e1ee4086.js.map"
+    "main.css": "/edu-react-cafe-menu/static/css/main.65925965.css",
+    "main.js": "/edu-react-cafe-menu/static/js/main.e1ee4086.js",
+    "index.html": "/edu-react-cafe-menu/index.html",
+    "main.65925965.css.map": "/edu-react-cafe-menu/static/css/main.65925965.css.map",
+    "main.e1ee4086.js.map": "/edu-react-cafe-menu/static/js/main.e1ee4086.js.map"
   },
   "entrypoints": [
     "static/css/main.65925965.css",
