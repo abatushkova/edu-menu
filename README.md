@@ -1,12 +1,12 @@
 # Cafe menu
-Educational project with menu page. Filter food and drinks by clicking on categories.  
-[Live Demo](https://abatushkova.github.io/edu-menu/)
+Educational project with Cafe Menu page. Filter food and drinks by clicking on categories.  
+[Live Demo](https://abatushkova.github.io/edu-react-cafe-menu/)
 
 ## Built with
-- Grid, flexbox layout
-- Tailwind
-- TypeScript
 - Create React App
+- TypeScript
+- Tailwind
+- Grid, Flexbox layout
 
 ## Installation
 You will need node and npm installed globally on your machine.
