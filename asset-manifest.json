@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/edu-react-cafe-menu/static/css/main.65925965.css",
-    "main.js": "/edu-react-cafe-menu/static/js/main.e1ee4086.js",
-    "index.html": "/edu-react-cafe-menu/index.html",
-    "main.65925965.css.map": "/edu-react-cafe-menu/static/css/main.65925965.css.map",
-    "main.e1ee4086.js.map": "/edu-react-cafe-menu/static/js/main.e1ee4086.js.map"
+    "main.css": "./static/css/main.65925965.css",
+    "main.js": "./static/js/main.407a48bc.js",
+    "index.html": "./index.html",
+    "main.65925965.css.map": "./static/css/main.65925965.css.map",
+    "main.407a48bc.js.map": "./static/js/main.407a48bc.js.map"
   },
   "entrypoints": [
     "static/css/main.65925965.css",
-    "static/js/main.e1ee4086.js"
+    "static/js/main.407a48bc.js"
   ]
 }
