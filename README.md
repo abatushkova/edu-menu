@@ -3,7 +3,7 @@ Educational project with Cafe Menu page. Filter food and drinks by clicking on c
 [Live Demo](https://abatushkova.github.io/edu-react-cafe-menu/)
 
 ## Built with
-- Create React App (with useState)
+- Create React App
 - TypeScript
 - Tailwind
 - Grid, Flexbox layout
